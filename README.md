@@ -1,2 +1,2 @@
 # clone
-pull
+2npull
